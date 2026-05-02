@@ -49,9 +49,9 @@ Aplicación web y móvil para cliente final, utilizada para la gestión de event
 
 También implementé la infraestructura cloud en AWS con CloudFormation, VPC, EC2, Load Balancer, S3 y RDS.
 
-### Country App
+### [Country App](https://github.com/ErikkAC/country-app)
 
-Aplicación de geolocalización desarrollada con Angular y TypeScript, integrando Mapbox para visualización de mapas, rutas y datos geográficos. Trabajo centrado en consumo de APIs, RxJS y experiencia de usuario.
+Aplicación desarrollada con Angular y TypeScript para consultar información de países mediante REST Countries API. Trabajo centrado en consumo de APIs, RxJS, rutas con Angular Router y experiencia de usuario.
 
 ### Wiki Pokémon
 
