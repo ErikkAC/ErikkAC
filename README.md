@@ -43,7 +43,7 @@ Me interesa especialmente crear componentes de UI claros, integrar APIs REST con
 
 ## Proyectos destacados
 
-### Muixeranga d'Alginet
+### [Muixeranga d'Alginet](https://github.com/ErikkAC/muixeranga-clean)
 
 Aplicación web y móvil para cliente final, utilizada para la gestión de eventos de la Muixeranga d'Alginet. Desarrollada con Vue 3, Composition API, Vue Router, Pinia, TailwindCSS y Laravel, integrando frontend y backend mediante API REST.
 
@@ -53,7 +53,7 @@ También implementé la infraestructura cloud en AWS con CloudFormation, VPC, EC
 
 Aplicación desarrollada con Angular y TypeScript para consultar información de países mediante REST Countries API. Trabajo centrado en consumo de APIs, RxJS, rutas con Angular Router y experiencia de usuario.
 
-### Wiki Pokémon
+### [Wiki Pokémon](https://github.com/ErikkAC/pokeapi-clean-api)
 
 Aplicación web tipo Pokédex desarrollada con Java, Spring Boot, JavaScript, HTML, CSS y MySQL. Integra datos externos mediante PokeAPI y permite gestionar favoritos con persistencia en base de datos.
 
