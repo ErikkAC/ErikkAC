@@ -82,9 +82,3 @@ May 2025 - Jul 2025 · Valencia, España
 ## Reconocimientos
 
 - Premio al mejor expediente académico del ciclo de Desarrollo de Aplicaciones Web · IES Ramón Esteve · Junio 2025
-
-## GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikkAC&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikkAC&layout=compact&theme=tokyonight&hide_border=true)
