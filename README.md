@@ -1,32 +1,30 @@
 # Hola, soy Erik Aquino Castell
 
-Frontend Developer en Valencia, España. Trabajo construyendo interfaces reutilizables, mantenibles y accesibles con Angular, TypeScript y ecosistemas modernos de desarrollo web.
+Desarrollador full stack orientado a producto en Valencia, España. Me gusta construir soluciones completas: desde una interfaz clara y cuidada hasta APIs, datos, despliegue cloud, documentación y automatización del flujo de desarrollo.
 
-Me interesa especialmente crear componentes de UI claros, integrar APIs REST con flujos asíncronos bien gestionados y cuidar la arquitectura frontend para que el código sea fácil de evolucionar en equipo.
+Busco equipos donde haga falta alguien autónomo, curioso y con mentalidad 360: capaz de entender negocio, bajar una idea a especificaciones, implementarla rápido, iterar con feedback y apoyarse en IA para desarrollar con más foco y calidad.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erik--aquino1412-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-aquino1412/)
 [![Email](https://img.shields.io/badge/Email-erikaquinocastell%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikaquinocastell@gmail.com)
 
-## Sobre mí
+## Perfil startup
 
-- Frontend Developer en Capgemini SE, trabajando con Angular, TypeScript, RxJS, Git/GitHub y Pull Requests.
-- Técnico Superior en Desarrollo de Aplicaciones Web por IES Ramón Esteve.
-- Experiencia creando documentación técnica de componentes UI con Storybook.
-- Background previo en Criminología por la Universitat de València, que me ayuda a mirar los problemas con método, análisis y atención al detalle.
-- En constante aprendizaje sobre frontend, testing, cloud y buenas prácticas de desarrollo.
+- Full stack developer con base fuerte en frontend, experiencia integrando backend, APIs REST, bases de datos e infraestructura cloud.
+- Mentalidad de producto: priorizo entregables útiles, código mantenible y decisiones técnicas que ayuden a validar y escalar.
+- Acostumbrado a moverme entre Angular, Vue, TypeScript, Java, Spring Boot, Laravel, MySQL, AWS y herramientas modernas de desarrollo.
+- Uso IA como copiloto técnico para acelerar investigación, generar especificaciones, revisar código, preparar tests y mejorar productividad sin perder criterio propio.
+- Interesado en spec-driven development, automatización, DX, testing, cloud y buenas prácticas para equipos pequeños que necesitan avanzar rápido.
+- Background en Criminología por la Universitat de València, que me aporta análisis, método y atención al detalle.
 
 ## Stack principal
 
-### Frontend
+### Frontend y producto
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
-### Web y UI
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -40,6 +38,25 @@ Me interesa especialmente crear componentes de UI claros, integrar APIs REST con
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### IA y forma de trabajar
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+![Spec--Driven Development](https://img.shields.io/badge/Spec--Driven%20Development-2563EB?style=flat-square)
+![API Design](https://img.shields.io/badge/API%20Design-0F766E?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-7C3AED?style=flat-square)
+
+## Qué puedo aportar a una startup
+
+- Convertir una idea o problema de negocio en una primera versión funcional, entendible y lista para iterar.
+- Construir interfaces modernas y mantenibles, conectadas con APIs y flujos asíncronos bien gestionados.
+- Diseñar e implementar backend, persistencia y servicios REST cuando el producto lo necesita.
+- Preparar despliegues e infraestructura cloud con foco en simplicidad, coste razonable y capacidad de crecimiento.
+- Documentar componentes, decisiones y flujos para que el equipo pueda avanzar sin depender de una sola persona.
+- Trabajar con herramientas de IA para prototipar, refinar especificaciones, revisar cambios y ganar velocidad en ciclos de producto.
 
 ## Proyectos destacados
 
@@ -60,7 +77,7 @@ Aplicación web tipo Pokédex desarrollada con Java, Spring Boot, JavaScript, HT
 ## Experiencia
 
 **Frontend Developer · Capgemini SE**  
-Mar 2026 - Actualidad · Valencia, España
+Mar 2026 - Jun 2026 · Valencia, España
 
 - Desarrollo de componentes UI reutilizables y escalables con Angular y TypeScript.
 - Integración de servicios backend mediante REST APIs.
