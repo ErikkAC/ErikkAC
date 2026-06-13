@@ -36,7 +36,10 @@ Busco equipos donde haga falta alguien autónomo, curioso y con mentalidad 360: 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -73,6 +76,10 @@ Aplicación desarrollada con Angular y TypeScript para consultar información de
 ### [Wiki Pokémon](https://github.com/ErikkAC/pokeapi-clean-api)
 
 Aplicación web tipo Pokédex desarrollada con Java, Spring Boot, JavaScript, HTML, CSS y MySQL. Integra datos externos mediante PokeAPI y permite gestionar favoritos con persistencia en base de datos.
+
+### [Ereader Price Tracker](https://github.com/ErikkAC/ereader-price-tracker)
+
+Agente en Python que monitoriza precios de ereaders, guarda el histórico en SQLite y avisa por Telegram cuando detecta una oferta (precio cercano al mínimo histórico o caída significativa frente a la media reciente). Usa Playwright para obtener precios de páginas con contenido renderizado en cliente, y está pensado para ejecutarse de forma automatizada mediante una tarea programada.
 
 ## Experiencia
 
