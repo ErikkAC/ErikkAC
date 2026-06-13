@@ -7,13 +7,14 @@ Busco equipos donde haga falta alguien autónomo, curioso y con mentalidad 360: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erik--aquino1412-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-aquino1412/)
 [![Email](https://img.shields.io/badge/Email-erikaquinocastell%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikaquinocastell@gmail.com)
 
-## Perfil startup
+## Perfil
 
 - Full stack developer con base fuerte en frontend, experiencia integrando backend, APIs REST, bases de datos e infraestructura cloud.
+- Foco creciente en desarrollo backend e IA: agentes y automatizaciones en Python, integración con APIs externas y persistencia de datos.
 - Mentalidad de producto: priorizo entregables útiles, código mantenible y decisiones técnicas que ayuden a validar y escalar.
-- Acostumbrado a moverme entre Angular, Vue, TypeScript, Java, Spring Boot, Laravel, MySQL, AWS y herramientas modernas de desarrollo.
+- Acostumbrado a moverme entre Angular, Vue, TypeScript, Java, Spring Boot, Laravel, Python, MySQL, AWS y herramientas modernas de desarrollo.
 - Uso IA como copiloto técnico para acelerar investigación, generar especificaciones, revisar código, preparar tests y mejorar productividad sin perder criterio propio.
-- Interesado en spec-driven development, automatización, DX, testing, cloud y buenas prácticas para equipos pequeños que necesitan avanzar rápido.
+- Interesado en spec-driven development, automatización, DX, testing y buenas prácticas.
 - Background en Criminología por la Universitat de València, que me aporta análisis, método y atención al detalle.
 
 ## Stack principal
@@ -52,16 +53,11 @@ Busco equipos donde haga falta alguien autónomo, curioso y con mentalidad 360: 
 ![API Design](https://img.shields.io/badge/API%20Design-0F766E?style=flat-square)
 ![Automation](https://img.shields.io/badge/Automation-7C3AED?style=flat-square)
 
-## Qué puedo aportar a una startup
-
-- Convertir una idea o problema de negocio en una primera versión funcional, entendible y lista para iterar.
-- Construir interfaces modernas y mantenibles, conectadas con APIs y flujos asíncronos bien gestionados.
-- Diseñar e implementar backend, persistencia y servicios REST cuando el producto lo necesita.
-- Preparar despliegues e infraestructura cloud con foco en simplicidad, coste razonable y capacidad de crecimiento.
-- Documentar componentes, decisiones y flujos para que el equipo pueda avanzar sin depender de una sola persona.
-- Trabajar con herramientas de IA para prototipar, refinar especificaciones, revisar cambios y ganar velocidad en ciclos de producto.
-
 ## Proyectos destacados
+
+### [Ereader Price Tracker](https://github.com/ErikkAC/ereader-price-tracker)
+
+Agente en Python que monitoriza precios de ereaders, guarda el histórico en SQLite y avisa por Telegram cuando detecta una oferta (precio cercano al mínimo histórico o caída significativa frente a la media reciente). Usa Playwright para obtener precios de páginas con contenido renderizado en cliente, y está pensado para ejecutarse de forma automatizada mediante una tarea programada.
 
 ### [Muixeranga d'Alginet](https://github.com/ErikkAC/muixeranga-clean)
 
@@ -77,14 +73,10 @@ Aplicación desarrollada con Angular y TypeScript para consultar información de
 
 Aplicación web tipo Pokédex desarrollada con Java, Spring Boot, JavaScript, HTML, CSS y MySQL. Integra datos externos mediante PokeAPI y permite gestionar favoritos con persistencia en base de datos.
 
-### [Ereader Price Tracker](https://github.com/ErikkAC/ereader-price-tracker)
-
-Agente en Python que monitoriza precios de ereaders, guarda el histórico en SQLite y avisa por Telegram cuando detecta una oferta (precio cercano al mínimo histórico o caída significativa frente a la media reciente). Usa Playwright para obtener precios de páginas con contenido renderizado en cliente, y está pensado para ejecutarse de forma automatizada mediante una tarea programada.
-
 ## Experiencia
 
 **Frontend Developer · Capgemini SE**  
-Mar 2026 - Jun 2026 · Valencia, España
+Mar 2026 - May 2026 · Valencia, España
 
 - Desarrollo de componentes UI reutilizables y escalables con Angular y TypeScript.
 - Integración de servicios backend mediante REST APIs.
